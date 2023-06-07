@@ -14,3 +14,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/learning-bash-scripting-17063287
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3212393/3212393-1667864333293-16x9.jpg
 [gcs-video-url]: https://www.linkedin.com/learning/learning-bash-scripting-17063287/using-github-codespaces-with-this-course
+
+### Student
+
+Michael Bernhardt
